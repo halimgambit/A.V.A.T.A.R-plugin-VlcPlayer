@@ -20,6 +20,7 @@ Compatible avec différents formats de nommage (S01, Saison 01, E01, etc.).
 
 ⏯️ Contrôle de la lecture
 Lecture, Pause, Reprise, Arrêt, Ferme VLC.
+
 🔊 Contrôle du volume
 Réglage du volume par commande vocale.
 Valeur comprise entre 0 et 100 %.
