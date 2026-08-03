@@ -26,6 +26,8 @@ Réglage du volume par commande vocale.
 Valeur comprise entre 0 et 100 %.
 Conversion automatique vers l'échelle de volume utilisée par VLC.
 
+multi-client / multiroom avec data.client et data.toClient ;
+
 ## Multi-room
 
 The VlcPlayer plugin is fully multi-room.
