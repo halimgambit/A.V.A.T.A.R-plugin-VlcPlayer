@@ -10,7 +10,7 @@ Fonctionnalités
 Recherche automatique dans le répertoire vidéo configuré.
 Parcours récursif des sous-dossiers.
 Formats supportés :
-.mp4,.mkv,.avi,.mov,.m4v
+.mp4 .mkv .avi .mov .m4v
 
 📺 Lecture de séries
 Recherche par nom de série.
