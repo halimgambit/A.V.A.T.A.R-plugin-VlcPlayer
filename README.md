@@ -10,11 +10,13 @@ Recherche automatique dans le répertoire vidéo configuré.
 Parcours récursif des sous-dossiers.
 Formats supportés :
 .mp4,.mkv,.avi,.mov,.m4v
+
 📺 Lecture de séries
 Recherche par nom de série.
 Reconnaissance de la saison.
 Reconnaissance de l'épisode.
 Compatible avec différents formats de nommage (S01, Saison 01, E01, etc.).
+
 ⏯️ Contrôle de la lecture
 Lecture, Pause, Reprise, Arrêt, Ferme VLC.
 🔊 Contrôle du volume
