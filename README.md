@@ -5,6 +5,7 @@ Plugin permettant de contrôler le lecteur multimédia VLC depuis A.V.A.T.A.R. e
 
  ## 🎯 Usage
 Fonctionnalités
+
 ▶️ Lecture de films et vidéos
 Recherche automatique dans le répertoire vidéo configuré.
 Parcours récursif des sous-dossiers.
