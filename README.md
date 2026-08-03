@@ -26,7 +26,9 @@ Réglage du volume par commande vocale.
 Valeur comprise entre 0 et 100 %.
 Conversion automatique vers l'échelle de volume utilisée par VLC.
 
-multi-client / multiroom avec data.client et data.toClient ;
+multi-client / multiroom avec data.client et data.toClient, a renseigner adresse Ip de vos clients sur fichier Config;
+
+Installer vlc sur le ou les client(s), repertoire: "client", "resources", "app", "lib", "VideoLAN", "VLC", "vlc.exe"
 
 ## Multi-room
 
