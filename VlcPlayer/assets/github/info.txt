@@ -1,0 +1,41 @@
+🎬 VlcPlayer
+
+Description :
+Plugin permettant de contrôler le lecteur multimédia VLC depuis A.V.A.T.A.R. et de lire des films ou séries stockés dans un répertoire vidéo local.
+
+Le plugin recherche automatiquement les vidéos disponibles dans le dossier configuré, reconnaît les demandes vocales de films ou de séries et lance la vidéo sur le client demandé via VLC.
+
+Fonctionnalités
+▶️ Lecture de films et vidéos
+Recherche automatique dans le répertoire vidéo configuré.
+Parcours récursif des sous-dossiers.
+Formats supportés :
+.mp4,.mkv,.avi,.mov,.m4v
+📺 Lecture de séries
+Recherche par nom de série.
+Reconnaissance de la saison.
+Reconnaissance de l'épisode.
+Compatible avec différents formats de nommage (S01, Saison 01, E01, etc.).
+⏯️ Contrôle de la lecture
+Lecture, Pause, Reprise, Arrêt, Ferme VLC.
+🔊 Contrôle du volume
+Réglage du volume par commande vocale.
+Valeur comprise entre 0 et 100 %.
+Conversion automatique vers l'échelle de volume utilisée par VLC.
+🚀 Démarrage automatique de VLC
+Vérifie si VLC est déjà actif.
+Lance VLC automatiquement s'il n'est pas démarré.
+Attend que l'interface HTTP de VLC soit disponible avant d'envoyer la vidéo.
+Applique éventuellement un volume par défaut.
+🖥️ Contrôle multi-clients
+Le VLC cible peut être différent du client ayant reçu la commande vocale.
+Permet par exemple de demander depuis un client A de lire une vidéo sur un autre client B.
+🌐 Diffusion HTTP
+A.V.A.T.A.R expose temporairement le fichier vidéo via son serveur HTTP.
+VLC récupère ensuite la vidéo directement depuis l'URL HTTP.
+🗣️ Réponses vocales
+Utilise le système de traduction/localisation A.V.A.T.A.R avec VlcPlayer.pak.
+Les messages sont adaptés à la langue du client.
+🧹 Gestion de l'environnement
+Arrêt d'A.V.A.T.A.R/VLC précédent avant de lancer une nouvelle vidéo.
+Fermeture de Brave(Browser), avant la lecture afin de libérer l'affichage du client.
